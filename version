@@ -1,0 +1,46 @@
+{
+    "code": true,
+    "timeUse": "0.0943",
+    "timeNow": "1642920058.0963",
+    "data": {
+        "server": {
+            "version": "1.26",
+            "size": "31.6 MB",
+            "time": "2021-12-31",
+            "link": "https:\/\/static.kodcloud.com\/update\/download\/kodbox.1.26.zip",
+            "linkUpdate": "https:\/\/static.kodcloud.com\/update\/update\/update-1.26.zip"
+        },
+        "kodexplorer": {
+            "version": "4.47",
+            "size": "13.8 MB",
+            "time": "2021-12-31",
+            "link": "https:\/\/raw.githubusercontent.com\/WYC-2020\/kodexplorer\/master\/kodexplorer4.47.zip",
+            "linkUpdate": "https:\/\/static.kodcloud.com\/update\/update\/2.0-4.47.zip"
+        },
+        "win": {
+            "version": "0.4.2",
+            "size": "76.5 MB",
+            "time": "2021-12-09",
+            "link": "https:\/\/static.kodcloud.com\/update\/client\/kodcloud\/kodcloud%20Setup%200.4.2.exe"
+        },
+        "mac": {
+            "version": "0.4.2",
+            "size": "90.4 MB",
+            "time": "2021-11-02",
+            "link": "https:\/\/static.kodcloud.com\/update\/client\/kodcloud\/kodcloud-0.4.2.dmg"
+        },
+        "ios": {
+            "version": "2.0.3",
+            "size": "50.4 MB",
+            "time": "2021-12-11",
+            "link": "https:\/\/apps.apple.com\/cn\/app\/id1488903204"
+        },
+        "android": {
+            "version": "",
+            "size": "B",
+            "time": null,
+            "link": "https:\/\/static.kodcloud.com\/update\/client\/app\/kodbox\/app-kod-release.apk"
+        },
+        "reloadTime": 1642919507
+    }
+}
