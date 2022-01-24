@@ -7,14 +7,14 @@
             "version": "1.26",
             "size": "31.6 MB",
             "time": "2021-12-31",
-            "link": "https:\/\/static.kodcloud.com\/update\/download\/kodbox.1.26.zip",
+            "link": "https://cdn.jsdelivr.net\/gh\/WYC-2020\/kodexplorer@master\/kodbox.1.26.zip",
             "linkUpdate": "https:\/\/static.kodcloud.com\/update\/update\/update-1.26.zip"
         },
         "kodexplorer": {
             "version": "4.47",
             "size": "13.8 MB",
             "time": "2021-12-31",
-            "link": "https:\/\/raw.githubusercontent.com\/WYC-2020\/kodexplorer\/master\/kodexplorer4.47.zip",
+            "link": "https://cdn.jsdelivr.net\/gh\/WYC-2020\/kodexplorer@master\/kodexplorer4.47.zip",
             "linkUpdate": "https:\/\/static.kodcloud.com\/update\/update\/2.0-4.47.zip"
         },
         "win": {
